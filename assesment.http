@@ -1,0 +1,6 @@
+@assesment_url = http://localhost:5273
+
+GET {{assesment_url}}/
+Accept: application/json
+
+###
